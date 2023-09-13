@@ -1,7 +1,12 @@
 ## Deployed Contracts
-https://goerli.etherscan.io/address/0xd78fdaf7aa9d73dbd8b3b96cc842315f6e63e053
 
+LuaNameRegistry:
+https://goerli.etherscan.io/address/0xd78fdaf7aa9d73dbd8b3b96cc842315f6e63e053
 https://gnosisscan.io/address/0x487b88949305bd891337e34ed35060dac42b8535
+
+LuaUserValues:
+https://goerli.etherscan.io/address/0xde4Ecc89d8D5Cb11AaAfa67FC1c3972503aB0021
+https://gnosisscan.io/address/0x1EB4beEc0DB7fc25b84b62c36b0483eb40e65557
 
 ## Foundry
 
