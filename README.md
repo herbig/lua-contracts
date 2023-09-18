@@ -8,6 +8,10 @@ LuaUserValues:
 https://goerli.etherscan.io/address/0xde4Ecc89d8D5Cb11AaAfa67FC1c3972503aB0021
 https://gnosisscan.io/address/0x1EB4beEc0DB7fc25b84b62c36b0483eb40e65557
 
+LuaRequestPayment:
+https://goerli.etherscan.io/address/0x9B3DB51c73E27C25bd19bE7af3e4D128C8ad9b36
+https://gnosisscan.io/address/0x77AE090463E47AFe9e33182a8C020fAD239Dd788
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
